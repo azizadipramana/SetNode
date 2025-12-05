@@ -1,0 +1,9 @@
+{
+    "name": "setnode", 
+    "version": "0.1.0", 
+    "description": "Auto set node in GNS3", 
+    "type": "module",
+    "bin": {
+        "setnode": "./src/cli.js"
+    }
+}
